@@ -2,6 +2,8 @@
 
 [![RimWorld](https://img.shields.io/badge/RimWorld-1.4-informational)](https://rimworldgame.com/) [![Steam Downloads](https://img.shields.io/steam/downloads/ToDo)](https://steamcommunity.com/sharedfiles/filedetails/?id=ToDo) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
+![Mod preview](About/Preview.png)
+
 [Peer Pressure](https://steamcommunity.com/sharedfiles/filedetails/?id=ToDo) is a mod for [RimWorld](https://rimworldgame.com/) which requires the [Ideology](https://rimworldgame.com/ideology/) DLC. With this mod, converting pawns to another ideology becomes more effective when they have a positive opinion of the proselytizer. Likewise, pawns are more likely to try to convert other pawns if they have a positive opinion of them. Shape the beliefs of your colony with ease!
 
 ## Frequently Asked Questions
@@ -40,9 +42,17 @@ To compile this mod on Windows, you will need to install the [.NET Framework 4.8
 
 This project encourages community involvement and contributions. Check the [CONTRIBUTING](CONTRIBUTING.md) file for details. Contributors can be checked in the [contributors list](https://github.com/joseasoler/peer-pressure/graphs/contributors).
 
+• joseasoler: Programming
+
+• NelsonArts: Art
+
+[![RimWorld Mod Market discord server](https://i.imgur.com/cfoFEMA.png)](url=https://discord.gg/7befJWr9xS)
+
 ## License
 
 This project is licensed under the MIT license. Check the [LICENSE](LICENSE) file for details.
+
+The preview image is licensed under the [Attribution-NonCommercial-NoDerivs 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en) license.
 
 ## Acknowledgements
 

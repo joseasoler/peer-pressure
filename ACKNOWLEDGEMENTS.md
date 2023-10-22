@@ -5,6 +5,8 @@ Developing a RimWorld mod is a huge task that is only made possible because its 
 * **[Andreas Pardeike](https://www.patreon.com/pardeike/posts)** - [Harmony](https://harmony.pardeike.net/).
 * **[Dubs Mods](https://www.patreon.com/dubwise56)** - [Dubs Mods community](https://discord.gg/bajcjsu)
 * **[Nadia Eghbal](https://github.com/nayafia)** - [Contributing Guides: A Template](https://github.com/nayafia/contributing-template).
+* **[Semantic versioning](https://semver.org/)**
+* **NelsonArts** - Preview image.
 * **Madman666** - Text redaction and ideas.
 * **[RimWorld Discord](https://discord.gg/rimworld)**
 * **[Semantic versioning](https://semver.org/)**
