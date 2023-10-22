@@ -6,7 +6,21 @@
 
 [Peer Pressure](https://steamcommunity.com/sharedfiles/filedetails/?id=ToDo) is a mod for [RimWorld](https://rimworldgame.com/) which requires the [Ideology](https://rimworldgame.com/ideology/) DLC. With this mod, converting pawns to another ideology becomes more effective when they have a positive opinion of the proselytizer. Likewise, pawns are more likely to try to convert other pawns if they have a positive opinion of them. Shape the beliefs of your colony with ease!
 
+## Mod Compatibility
+
+| Mod                                                                                                                   | Compatible                                                                                                                                                 |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Alpha Memes](https://steamcommunity.com/sharedfiles/filedetails/?id=2661356814)                                      | Yes                                                                                                                                                        |
+| [Combat Extended](https://steamcommunity.com/workshop/filedetails/?id=2890901044)                                     | [Link](https://github.com/CombatExtended-Continued/CombatExtended/wiki/Frequently-Asked-Questions#does-mod-work-with-combat-extended-does-it-need-a-patch) |
+| [Easy Conversions](https://steamcommunity.com/workshop/filedetails/?id=2885902723)                                    | Yes                                                                                                                                                        |
+| [Vanilla Ideology Expanded - Memes and Structures](https://steamcommunity.com/sharedfiles/filedetails/?id=2636329500) | Yes                                                                                                                                                        |
+| [T's Conversion Boosting Staff](https://steamcommunity.com/workshop/filedetails/?id=2890481507)                       | Yes                                                                                                                                                        |
+
 ## Frequently Asked Questions
+
+**Is it not like this in RimWorld vanilla already?**
+
+No. Check this link for details: [Conversion, RimWorld wiki](https://rimworldwiki.com/wiki/Ideoligion#Conversion).
 
 **Can I safely add this mod to an existing save?**
 
@@ -22,17 +36,7 @@ No. Changes take effect immediately.
 
 **Where should I place Peer Pressure in my mod list load order?**
 
-Using [RimSort](https://github.com/oceancabbage/RimSort) or [RimPy](https://github.com/rimpy-custom/RimPy/releases) to sort your list should have optimal results.
-
-**Is this mod compatible with...**
-
-| Mod                                                                                                                   | Compatible                                                                                                                                                 |
-|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Alpha Memes](https://steamcommunity.com/sharedfiles/filedetails/?id=2661356814)                                      | Yes                                                                                                                                                        |
-| [Combat Extended](https://steamcommunity.com/workshop/filedetails/?id=2890901044)                                     | [Link](https://github.com/CombatExtended-Continued/CombatExtended/wiki/Frequently-Asked-Questions#does-mod-work-with-combat-extended-does-it-need-a-patch) |
-| [Easy Conversions](https://steamcommunity.com/workshop/filedetails/?id=2885902723)                                    | Yes                                                                                                                                                        |
-| [Vanilla Ideology Expanded - Memes and Structures](https://steamcommunity.com/sharedfiles/filedetails/?id=2636329500) | Yes                                                                                                                                                        |
-| [T's Conversion Boosting Staff](https://steamcommunity.com/workshop/filedetails/?id=2890481507)                       | Yes                                                                                                                                                        |
+Using [RimSort](https://github.com/oceancabbage/RimSort) or [RimPy](https://github.com/rimpy-custom/RimPy/releases) to sort your mod list should have optimal results.
 
 ## Development
 

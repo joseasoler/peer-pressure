@@ -1,0 +1,44 @@
+﻿With this mod, converting pawns to another ideology becomes more effective when they have a positive opinion of the proselytizer. Likewise, pawns are more likely to try to convert other pawns if they have a positive opinion of them. Shape the beliefs of your colony with ease!
+
+[h2]Mod compatibility[/h2]
+
+[table]
+[tr][th]Mod[/th][th]Compatible[/th][/tr]
+[tr][td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2661356814]Alpha Memes[/url][/td][td]Yes[/td][/tr]
+[tr][td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2890901044]Extended Memes[/url][/td][td][url=https://github.com/CombatExtended-Continued/CombatExtended/wiki/Frequently-Asked-Questions#does-mod-work-with-combat-extended-does-it-need-a-patch]Link[/url][/td][/tr]
+[tr][td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2885902723]Easy Conversions[/url][/td][td]Yes[/td][/tr]
+[tr][td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2636329500]Vanilla Ideology Expanded - Memes and Structures[/url][/td][td]Yes[/td][/tr]
+[tr][td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2890481507]T's Conversion Boosting Staff[/url][/td][td]Yes[/td][/tr]
+[/table]
+
+[h2]Frequently Asked Questions[/h2]
+
+[b]*Is it not like this in RimWorld vanilla already?[/b]
+
+No. Check this link for details: [url=https://rimworldwiki.com/wiki/Ideoligion#Conversion]Conversion, RimWorld wiki[/url] 
+
+[b]Can I safely add this mod to an existing save?[/b]
+
+Yes.
+
+[b]Can I safely remove this mod from an existing save?[/b]
+
+Yes.
+
+[b]Do I need to restart the game after changing the settings?[/b]
+
+No. Changes take effect immediately.
+
+[b]Where should I place Peer Pressure in my mod list load order?[/b]
+
+Using RimSort or RimPy to sort your mod list should have optimal results.
+
+[h2]Credits[/h2]
+
+[b]Project website:[/b] https://github.com/joseasoler/peer-pressure
+
+• [b]joseasoler[/b]: Programming
+
+• [b]NelsonArts[/b]: Art
+
+[url=https://discord.gg/7befJWr9xS][img]https://i.imgur.com/gh6C5m2.png[/img][/url]
