@@ -1,10 +1,10 @@
 # Peer Pressure
 
-[![RimWorld](https://img.shields.io/badge/RimWorld-1.4-informational)](https://rimworldgame.com/) [![Steam Downloads](https://img.shields.io/steam/downloads/ToDo)](https://steamcommunity.com/sharedfiles/filedetails/?id=ToDo) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+[![RimWorld](https://img.shields.io/badge/RimWorld-1.4-informational)](https://rimworldgame.com/) [![Steam Downloads](https://img.shields.io/steam/downloads/3057626086)](https://steamcommunity.com/sharedfiles/filedetails/?id=3057626086) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 ![Mod preview](About/Preview.png)
 
-[Peer Pressure](https://steamcommunity.com/sharedfiles/filedetails/?id=ToDo) is a mod for [RimWorld](https://rimworldgame.com/) which requires the [Ideology](https://rimworldgame.com/ideology/) DLC. With this mod, converting pawns to another ideology becomes more effective when they have a positive opinion of the proselytizer. Likewise, pawns are more likely to try to convert other pawns if they have a positive opinion of them. Shape the beliefs of your colony with ease!
+[Peer Pressure](https://steamcommunity.com/sharedfiles/filedetails/?id=3057626086) is a mod for [RimWorld](https://rimworldgame.com/) which requires the [Ideology](https://rimworldgame.com/ideology/) DLC. With this mod, converting pawns to another ideology becomes more effective when they have a positive opinion of the proselytizer. Likewise, pawns are more likely to try to convert other pawns if they have a positive opinion of them. Shape the beliefs of your colony with ease!
 
 ## Mod Compatibility
 
